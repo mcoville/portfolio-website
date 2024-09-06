@@ -1,0 +1,4 @@
+npx create-next-app@13.4.8 .
+
+npm i react-icons
+npm i framer-motion
